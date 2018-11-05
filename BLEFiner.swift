@@ -2,8 +2,8 @@
 //  BLEFiner.swift
 //  UCard
 //
-//  Created by YunSang Lee on 2017. 5. 21..
-//  Copyright © 2017년 CITeam44. All rights reserved.
+//  Created by Shashwat Singh on 3/9/17.
+//  Copyright © 2017 Shashanoid. All rights reserved.
 //
 
 import UIKit

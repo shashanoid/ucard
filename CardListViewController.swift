@@ -2,10 +2,9 @@
 //  ViewController.swift
 //  UCard
 //
-//  Created by YunSang Lee on 2017. 3. 9..
-//  Copyright © 2017년 CITeam44. All rights reserved.
+//  Created by Shashwat Singh on 3/9/17.
+//  Copyright © 2017 Shashanoid. All rights reserved.
 //
-
 // THIS CODE IS NOT BEING USED!!
 // THIS DOCUMENT IS OBSOLETE!!!
 
